@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\bin\Debug\netcoreapp2.1\Senai.ToDo.MVC.deps.json
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\bin\Debug\netcoreapp2.1\Senai.ToDo.MVC.runtimeconfig.json
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\bin\Debug\netcoreapp2.1\Senai.ToDo.MVC.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\bin\Debug\netcoreapp2.1\Senai.ToDo.MVC.dll
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\bin\Debug\netcoreapp2.1\Senai.ToDo.MVC.pdb
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\obj\Debug\netcoreapp2.1\Senai.ToDo.MVC.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\obj\Debug\netcoreapp2.1\Senai.ToDo.MVC.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\obj\Debug\netcoreapp2.1\Senai.ToDo.MVC.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\obj\Debug\netcoreapp2.1\Senai.ToDo.MVC.AssemblyInfo.cs
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\obj\Debug\netcoreapp2.1\Senai.ToDo.MVC.dll
+C:\Users\41813664803\Documents\Senai.ToDo.MVC\obj\Debug\netcoreapp2.1\Senai.ToDo.MVC.pdb
